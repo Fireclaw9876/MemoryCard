@@ -1,2 +1,2 @@
-# sophmore-year
+# MemoryCard
 Memory Game Sophomore Year Java Repository
