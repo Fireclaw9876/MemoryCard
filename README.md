@@ -1,2 +1,2 @@
 # sophmore-year
-Sophomore Year Java Repository
+Memory Game Sophomore Year Java Repository
